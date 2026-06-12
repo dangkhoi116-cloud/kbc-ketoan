@@ -1,0 +1,170 @@
+[
+  {
+    "code": "111",
+    "name": "Tiền mặt",
+    "debit": 450193.0,
+    "credit": 0.0
+  },
+  {
+    "code": "1111",
+    "name": "Tiền Việt Nam",
+    "debit": 450193.0,
+    "credit": 0.0
+  },
+  {
+    "code": "112",
+    "name": "Tiền gửi Ngân hàng",
+    "debit": 24244791.0,
+    "credit": 0.0
+  },
+  {
+    "code": "1121",
+    "name": "Tiền Việt Nam",
+    "debit": 24244791.0,
+    "credit": 0.0
+  },
+  {
+    "code": "133",
+    "name": "Thuế GTGT được khấu trừ",
+    "debit": 109088981.0,
+    "credit": 0.0
+  },
+  {
+    "code": "1331",
+    "name": "Thuế GTGT được khấu trừ của hàng hóa, dịch vụ",
+    "debit": 109088981.0,
+    "credit": 0.0
+  },
+  {
+    "code": "138",
+    "name": "Phải thu khác",
+    "debit": 59000000.0,
+    "credit": 0.0
+  },
+  {
+    "code": "1386",
+    "name": "Cầm cố, thế chấp, ký quỹ, ký cược",
+    "debit": 59000000.0,
+    "credit": 0.0
+  },
+  {
+    "code": "152",
+    "name": "Nguyên liệu, vật liệu",
+    "debit": 99428500.0,
+    "credit": 0.0
+  },
+  {
+    "code": "154",
+    "name": "Chi phí sản xuất, kinh doanh dở dang",
+    "debit": 846837865.0,
+    "credit": 0.0
+  },
+  {
+    "code": "242",
+    "name": "Chi phí trả trước",
+    "debit": 240471427.0,
+    "credit": 0.0
+  },
+  {
+    "code": "331",
+    "name": "Phải trả cho người bán",
+    "debit": 312153300.0,
+    "credit": 58917000.0
+  },
+  {
+    "code": "333",
+    "name": "Thuế và các khoản phải nộp Nhà nước",
+    "debit": 0.0,
+    "credit": 6136843.0
+  },
+  {
+    "code": "3335",
+    "name": "Thuế thu nhập cá nhân",
+    "debit": 0.0,
+    "credit": 6136843.0
+  },
+  {
+    "code": "334",
+    "name": "Phải trả người lao động",
+    "debit": 0.0,
+    "credit": 111669625.0
+  },
+  {
+    "code": "335",
+    "name": "Chi phí phải trả",
+    "debit": 0.0,
+    "credit": 4000000.0
+  },
+  {
+    "code": "338",
+    "name": "Phải trả, phải nộp khác",
+    "debit": 0.0,
+    "credit": 77986240.0
+  },
+  {
+    "code": "3383",
+    "name": "Bảo hiểm xã hội",
+    "debit": 0.0,
+    "credit": 36167160.0
+  },
+  {
+    "code": "3384",
+    "name": "Bảo hiểm y tế",
+    "debit": 0.0,
+    "credit": 6382440.0
+  },
+  {
+    "code": "3385",
+    "name": "Bảo hiểm thất nghiệp",
+    "debit": 0.0,
+    "credit": 2836640.0
+  },
+  {
+    "code": "3388",
+    "name": "Phải trả, phải nộp khác",
+    "debit": 0.0,
+    "credit": 32600000.0
+  },
+  {
+    "code": "341",
+    "name": "Vay và nợ thuê tài chính",
+    "debit": 0.0,
+    "credit": 770000000.0
+  },
+  {
+    "code": "3411",
+    "name": "Các khoản đi vay",
+    "debit": 0.0,
+    "credit": 770000000.0
+  },
+  {
+    "code": "411",
+    "name": "Vốn đầu tư của chủ sở hữu",
+    "debit": 0.0,
+    "credit": 3000000000.0
+  },
+  {
+    "code": "4111",
+    "name": "Vốn góp của chủ sở hữu",
+    "debit": 0.0,
+    "credit": 3000000000.0
+  },
+  {
+    "code": "421",
+    "name": "Lợi nhuận sau thuế chưa phân phối",
+    "debit": 2337034651.0,
+    "credit": 0.0
+  },
+  {
+    "code": "4212",
+    "name": "Lợi nhuận sau thuế chưa phân phối năm nay",
+    "debit": 2337034651.0,
+    "credit": 0.0
+  },
+  {
+    "code": "Cộng",
+    "name": "",
+    "debit": 4028709708.0,
+    "credit": 4028709708.0
+  }
+]
